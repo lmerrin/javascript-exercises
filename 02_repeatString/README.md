@@ -27,3 +27,35 @@ You will notice in this exercise that there are multiple tests (see in file `rep
 Test Suites: 1 passed, 1 total
 Tests:       6 skipped, 1 passed, 7 total
 ```
+
+
+function removeFromArray (array,target){
+    
+    check array for the target
+         if find target 
+             eliminate 
+
+        return updatedArray
+}
+removeFromArray ([7.1.3.6],3) ---> [7,1,6]
+
+
+function removeFromArray (array,target){
+    
+    let purdgedArray=[]
+    for (let count=0; count < arrayLength; count++) {
+        if array[count]! === target {
+            purgedArray.push(array[count])
+        }
+    } 
+
+        return purgedArray
+}
+
+Convert array to object 
+
+Reduce 
+
+Nested Loop 
+
+Filter 
